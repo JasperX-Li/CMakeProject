@@ -1,0 +1,17 @@
+/home/jx/mycode/TMPCMAKE/build/CMakeFiles/edit_cache.dir
+/home/jx/mycode/TMPCMAKE/build/CMakeFiles/rebuild_cache.dir
+/home/jx/mycode/TMPCMAKE/build/calc/CMakeFiles/mul_div.dir
+/home/jx/mycode/TMPCMAKE/build/calc/CMakeFiles/edit_cache.dir
+/home/jx/mycode/TMPCMAKE/build/calc/CMakeFiles/rebuild_cache.dir
+/home/jx/mycode/TMPCMAKE/build/calc/add_sub/CMakeFiles/add_sub.dir
+/home/jx/mycode/TMPCMAKE/build/calc/add_sub/CMakeFiles/edit_cache.dir
+/home/jx/mycode/TMPCMAKE/build/calc/add_sub/CMakeFiles/rebuild_cache.dir
+/home/jx/mycode/TMPCMAKE/build/sort/CMakeFiles/sort.dir
+/home/jx/mycode/TMPCMAKE/build/sort/CMakeFiles/edit_cache.dir
+/home/jx/mycode/TMPCMAKE/build/sort/CMakeFiles/rebuild_cache.dir
+/home/jx/mycode/TMPCMAKE/build/test1/CMakeFiles/app1.dir
+/home/jx/mycode/TMPCMAKE/build/test1/CMakeFiles/edit_cache.dir
+/home/jx/mycode/TMPCMAKE/build/test1/CMakeFiles/rebuild_cache.dir
+/home/jx/mycode/TMPCMAKE/build/test2/CMakeFiles/app2.dir
+/home/jx/mycode/TMPCMAKE/build/test2/CMakeFiles/edit_cache.dir
+/home/jx/mycode/TMPCMAKE/build/test2/CMakeFiles/rebuild_cache.dir

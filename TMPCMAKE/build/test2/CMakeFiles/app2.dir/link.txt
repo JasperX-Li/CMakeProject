@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/app2.dir/main.c.o -o /home/jx/mycode/TMPCMAKE/bin/app2   -L/home/jx/mycode/TMPCMAKE/lib  -Wl,-rpath,/home/jx/mycode/TMPCMAKE/lib /home/jx/mycode/TMPCMAKE/lib/libsort.a 

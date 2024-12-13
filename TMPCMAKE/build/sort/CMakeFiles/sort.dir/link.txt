@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/jx/mycode/TMPCMAKE/lib/libsort.a CMakeFiles/sort.dir/sort.c.o
+/usr/bin/ranlib /home/jx/mycode/TMPCMAKE/lib/libsort.a

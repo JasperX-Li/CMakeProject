@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/jx/mycode/TMPCMAKE/lib/libmul_div.a CMakeFiles/mul_div.dir/div.c.o CMakeFiles/mul_div.dir/mul.c.o
+/usr/bin/ranlib /home/jx/mycode/TMPCMAKE/lib/libmul_div.a

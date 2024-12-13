@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libadd_sub.so -o /home/jx/mycode/TMPCMAKE/lib/libadd_sub.so CMakeFiles/add_sub.dir/add.c.o CMakeFiles/add_sub.dir/sub.c.o 
